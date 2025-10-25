@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kenny的博客</title>
-    <link>https://weipingwu2023.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Kenny的博客</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://weipingwu2023.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇文章</title>
-      <link>https://weipingwu2023.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://weipingwu2023.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h1&gt;
 &lt;p&gt;这是我的第一篇文章！&lt;/p&gt;
 &lt;h2 id=&#34;测试功能&#34;&gt;测试功能&lt;/h2&gt;
@@ -22,6 +22,32 @@
 &lt;li&gt;列表项 3&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;粗体文字&lt;/strong&gt; 和 &lt;em&gt;斜体文字&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>简历 | Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;📄 &lt;a href=&#34;http://localhost:1313/files/Weiping_Wu_Resume.pdf&#34;&gt;下载 PDF 版简历 | Download Resume (PDF)&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;weiping-wu--吴伟平&#34;&gt;Weiping Wu | 吴伟平&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;联系方式 | Contact&lt;/strong&gt;&lt;br&gt;
+📱 Phone: 18040102011&lt;br&gt;
+📧 Email: &lt;a href=&#34;mailto:3129886261@qq.com&#34;&gt;3129886261@qq.com&lt;/a&gt;&lt;br&gt;
+📍 City: Guangzhou, China&lt;br&gt;
+🎂 Date of Birth: January 1, 1995&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;教育背景--education&#34;&gt;教育背景 | Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;广东食品药品职业学院 | Guangdong Food and Drug Vocational College&lt;/strong&gt;&lt;br&gt;
+药物分析技术专业 | Major in Pharmaceutical Analysis Technology&lt;br&gt;
+大专学历 | Associate Degree&lt;br&gt;
+📅 2014年9月 - 2017年7月&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;工作经历--work-experience&#34;&gt;工作经历 | Work Experience&lt;/h2&gt;
+&lt;h3 id=&#34;默维特大连技术服务有限公司--mervit-dalian-technical-service-co-ltd&#34;&gt;默维特（大连）技术服务有限公司 | Mervit (Dalian) Technical Service Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;客户服务工程师 | Customer Service Engineer&lt;/strong&gt;&lt;br&gt;
+📅 2022年11月 - 2025年11月&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
