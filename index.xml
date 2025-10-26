@@ -6,22 +6,14 @@
     <description>Recent content on Kenny的博客</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://weipingwu2023.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>我的第一篇文章</title>
+      <title>神医---要做的事</title>
       <link>https://weipingwu2023.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://weipingwu2023.github.io/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h1&gt;
-&lt;p&gt;这是我的第一篇文章！&lt;/p&gt;
-&lt;h2 id=&#34;测试功能&#34;&gt;测试功能&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;列表项 1&lt;/li&gt;
-&lt;li&gt;列表项 2&lt;/li&gt;
-&lt;li&gt;列表项 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;粗体文字&lt;/strong&gt; 和 &lt;em&gt;斜体文字&lt;/em&gt;&lt;/p&gt;</description>
+      <description>我的第一篇博文，记录下定决心成为云计算工程师的时刻</description>
     </item>
     <item>
       <title>简历 | Resume</title>
@@ -45,8 +37,8 @@
 📅 2014年9月 - 2017年7月&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;工作经历--work-experience&#34;&gt;工作经历 | Work Experience&lt;/h2&gt;
-&lt;h3 id=&#34;默维特大连技术服务有限公司--mervit-dalian-technical-service-co-ltd&#34;&gt;默维特（大连）技术服务有限公司 | Mervit (Dalian) Technical Service Co., Ltd.&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;客户服务工程师 | Customer Service Engineer&lt;/strong&gt;&lt;br&gt;
+&lt;h3 id=&#34;默维特大连技术服务有限公司--movate-dalian-technical-service-co-ltd&#34;&gt;默维特（大连）技术服务有限公司 | Movate (Dalian) Technical Service Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;客户技术服务工程师 | Customer Technical Service Engineer&lt;/strong&gt;
 📅 2022年11月 - 2025年11月&lt;/p&gt;</description>
     </item>
   </channel>
